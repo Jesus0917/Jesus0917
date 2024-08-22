@@ -62,7 +62,7 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Jesus0917&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus0917&layout=compact&bg_color=0d1117&text_color=ffffff"
     alt="Jesus0917" 
     bg_color=#808080/></p>
 
